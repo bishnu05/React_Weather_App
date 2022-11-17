@@ -1,3 +1,3 @@
 ## Weather application 
 
-Deployed link :- https://react-weather-app-aakashvani.vercel.app/
+Deployed link :- https://friendly-choux-87122b.netlify.app/ 
